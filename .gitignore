@@ -1,3 +1,9 @@
+# Directories
+__pycache__/
+.ipynb_checkpoints/
+.vscode/
+data/
+
 # Prerequisites
 *.d
 
