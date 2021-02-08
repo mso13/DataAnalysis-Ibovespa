@@ -1,4 +1,4 @@
-# Ibovespa Stocks - Analysis
+# Análise de Dados - Ações do Índice Bovespa
 Projeto de visualização dos dados obtidos na bolsa de valores brasileira.
 
 ---
